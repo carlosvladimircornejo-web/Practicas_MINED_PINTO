@@ -21,9 +21,8 @@ Este esfuerzo es posible gracias a la colaboración de:
 ---<p align="center">
   Hecho con ❤️ en <b>El Salvador</b> 🇸🇻 para el mundo.</p>
 
-## Consejos para personalizarlo:
 
-   1. Imágenes: He incluido un enlace directo al [Logo oficial del MINEDUCYT](https://es.wikipedia.org/wiki/Archivo:Logo_oficial_del_Ministerio_de_Educaci%C3%B3n_de_El_Salvador.png) que se visualiza automáticamente.
-   2. Badges: He añadido "badges" de tecnologías comunes (HTML, CSS, JS). Puedes borrarlos o añadir más según lo que estés aprendiendo.
-   3. Docente: Si quieres poner tu nombre específico o una foto tuya, puedes añadirla debajo del título "Perfil del Docente".
+   1. Imágenes: [Logo oficial del MINEDUCYT](https://es.wikipedia.org/wiki/Archivo:Logo_oficial_del_Ministerio_de_Educaci%C3%B3n_de_El_Salvador.png) que se visualiza automáticamente.
+   2. HTML, CSS, JS.
+   3. Docente: Carlos Vladimir Cornejo Pinto.
 
