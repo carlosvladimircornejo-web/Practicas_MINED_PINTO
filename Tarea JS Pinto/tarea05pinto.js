@@ -1,5 +1,5 @@
 // tarea 05 Pinto
-let dia = 3;
+let dia = 8;
 
 switch (dia) {
   case 1:
